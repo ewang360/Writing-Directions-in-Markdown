@@ -19,7 +19,6 @@ The cello, or violoncello, is a large wooden 4-stringed instrument in the violin
 ## Steps
 
 ### 1. Prepare the bow
-![Cello_bow_parts.jpg](Cello-bow-parts.jpg)
 
 - Take the bow out of the case without touching the hairs
 - Locate the screw at the base of the bow and turn it clockwise until the hairs have tension, but be careful not to make them too tight that the bow begins to bend outward.
