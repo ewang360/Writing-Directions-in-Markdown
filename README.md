@@ -7,6 +7,7 @@ How to Play the Cello
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+https://github.com/ewang360/Writing-Directions-in-Markdown/blob/main/CelloPegs.jpg
 
 ## Features
 
