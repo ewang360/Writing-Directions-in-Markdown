@@ -7,7 +7,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
-## Features![CelloPegs.jpg](https://www.dropbox.com/s/0lt58gwuxvcxj3x/CelloPegs.jpg?dl=0&raw=1)
+## Features![CelloPegs.jpg](https://github.com/ewang360/Writing-Directions-in-Markdown/blob/main/CelloPegs.jpg)
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
