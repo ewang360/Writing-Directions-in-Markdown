@@ -47,7 +47,7 @@ The cello, or violoncello, is a large wooden 4-stringed instrument in the violin
 ![Plucking_cello.jpg](Plucking_cello.jpg)
 
 ### 4. Bow the Cello (Arco)
-![Playing_cello.jpg](Playing_cello.jpg)
+![Playing_Cello.jpg](Playing_Cello.jpg)
 
 - Using the right hand, hold the bow at its base, which is called the "frog".
 - Gently touch the hairs of the bow to one string on the cello.
