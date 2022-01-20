@@ -1,4 +1,3 @@
-How to Play the Cello
 ==========================
 
 ## _The Last Markdown Editor, Ever_
@@ -7,9 +6,8 @@ How to Play the Cello
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-https://github.com/ewang360/Writing-Directions-in-Markdown/blob/main/CelloPegs.jpg
 
-## Features
+## Features![CelloPegs.jpg](https://www.dropbox.com/s/0lt58gwuxvcxj3x/CelloPegs.jpg?dl=0&raw=1)
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
